@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0b4705-bc05-4283-a63e-ed54381b9db5" name="默认更改列表" comment="默认更改列表">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache$DLinkedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache$DLinkedNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_103.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_103.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_121.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_146.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_146.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_206.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_215.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_215.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_103.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_103.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_121.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_206.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_215.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_215.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/TreeNode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +44,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Problem_143">
-    <configuration name="Problem_143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_143" />
+  <component name="RunManager" selected="Application.Problem_155">
+    <configuration name="Problem_101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_101" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_199" />
+    <configuration name="Problem_155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_155" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_31" />
+    <configuration name="Problem_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_41" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_33" />
+    <configuration name="Problem_415" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_415" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_54" />
+    <configuration name="Problem_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_56" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_143" />
-        <item itemvalue="Application.Problem_54" />
-        <item itemvalue="Application.Problem_199" />
-        <item itemvalue="Application.Problem_31" />
-        <item itemvalue="Application.Problem_33" />
+        <item itemvalue="Application.Problem_155" />
+        <item itemvalue="Application.Problem_415" />
+        <item itemvalue="Application.Problem_56" />
+        <item itemvalue="Application.Problem_101" />
+        <item itemvalue="Application.Problem_41" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +132,10 @@
       <option name="presentableId" value="Default" />
       <updated>1627177696354</updated>
       <workItem from="1627177702794" duration="12676000" />
-      <workItem from="1627628739883" duration="11535000" />
+      <workItem from="1627628739883" duration="11536000" />
+      <workItem from="1627870239767" duration="20000" />
+      <workItem from="1627873817646" duration="1365000" />
+      <workItem from="1627971090640" duration="5827000" />
     </task>
     <servers />
   </component>
