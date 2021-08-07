@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0b4705-bc05-4283-a63e-ed54381b9db5" name="默认更改列表" comment="默认更改列表">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -30,6 +28,7 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/TreeNode.class" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +47,6 @@
   </component>
   <component name="ProjectId" id="1vmqdE5npT64kI19qNMKokzJw7Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="1" id="添加" />
   </component>
   <component name="ProjectViewState">
@@ -62,14 +60,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.10050249" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Problem_143">
-    <configuration name="Problem_143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_143" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Problem_1">
+    <configuration name="Problem_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_1" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_199" />
+    <configuration name="Problem_105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_105" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_31" />
+    <configuration name="Problem_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_21" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_33" />
+    <configuration name="Problem_69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_69" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_54" />
+    <configuration name="Problem_92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_92" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -135,15 +145,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_143" />
-        <item itemvalue="Application.Problem_54" />
-        <item itemvalue="Application.Problem_199" />
-        <item itemvalue="Application.Problem_31" />
-        <item itemvalue="Application.Problem_33" />
+        <item itemvalue="Application.Problem_1" />
+        <item itemvalue="Application.Problem_105" />
+        <item itemvalue="Application.Problem_92" />
+        <item itemvalue="Application.Problem_69" />
+        <item itemvalue="Application.Problem_21" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -156,22 +166,24 @@
       <updated>1627177696354</updated>
       <workItem from="1627177702794" duration="12676000" />
       <workItem from="1627628739883" duration="11535000" />
+      <workItem from="1627719089340" duration="9105000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
