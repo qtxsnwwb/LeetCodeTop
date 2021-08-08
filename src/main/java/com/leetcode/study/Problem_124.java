@@ -20,7 +20,7 @@ public class Problem_124 {
  */
 class Solution_124 {
     public int maxPathSum(TreeNode root) {
-
+        return 1;
     }
 }
 

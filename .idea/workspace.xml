@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -8,25 +11,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache$DLinkedNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache$DLinkedNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_103.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_103.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_121.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_146.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_146.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_206.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_215.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_215.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_103.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_103.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_121.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_206.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_215.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_215.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/TreeNode.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1vmqdE5npT64kI19qNMKokzJw7Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -63,7 +50,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.10050249" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,22 +64,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_1">
-    <configuration name="Problem_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_1" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem_5">
     <configuration name="Problem_105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_105" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_113" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_21" />
+    <configuration name="Problem_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_5" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -119,37 +99,23 @@
     </configuration>
     <configuration name="Problem_69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_69" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Problem_92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_92" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_1" />
+        <item itemvalue="Application.Problem_5" />
+        <item itemvalue="Application.Problem_113" />
         <item itemvalue="Application.Problem_105" />
         <item itemvalue="Application.Problem_92" />
         <item itemvalue="Application.Problem_69" />
-        <item itemvalue="Application.Problem_21" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +133,19 @@
       <workItem from="1627177702794" duration="12676000" />
       <workItem from="1627628739883" duration="11535000" />
       <workItem from="1627719089340" duration="9105000" />
+      <workItem from="1627628739883" duration="11536000" />
+      <workItem from="1627870239767" duration="20000" />
+      <workItem from="1627873817646" duration="1365000" />
+      <workItem from="1627971090640" duration="7350000" />
+      <workItem from="1627992110874" duration="121000" />
+      <workItem from="1627992246070" duration="208000" />
+      <workItem from="1627992485765" duration="253000" />
+      <workItem from="1628040770404" duration="46000" />
+      <workItem from="1628040828618" duration="6786000" />
+      <workItem from="1628048629189" duration="24000" />
+      <workItem from="1628048665264" duration="9497000" />
+      <workItem from="1628127234029" duration="3215000" />
+      <workItem from="1628214509357" duration="11402000" />
     </task>
     <servers />
   </component>
