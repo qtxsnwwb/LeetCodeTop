@@ -8,9 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0b4705-bc05-4283-a63e-ed54381b9db5" name="默认更改列表" comment="默认更改列表">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_124.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_124.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_124.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,15 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_5">
-    <configuration name="Problem_105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_105" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_113" />
+  <component name="RunManager" selected="Application.Problem_83">
+    <configuration name="Problem_124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_124" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -97,25 +91,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_69" />
+    <configuration name="Problem_79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_79" />
+      <module name="LeetCodeTop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_92" />
+    <configuration name="Problem_82" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_82" />
+      <module name="LeetCodeTop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_83" />
+      <module name="LeetCodeTop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_83" />
+        <item itemvalue="Application.Problem_82" />
+        <item itemvalue="Application.Problem_79" />
+        <item itemvalue="Application.Problem_124" />
         <item itemvalue="Application.Problem_5" />
-        <item itemvalue="Application.Problem_113" />
-        <item itemvalue="Application.Problem_105" />
-        <item itemvalue="Application.Problem_92" />
-        <item itemvalue="Application.Problem_69" />
       </list>
     </recent_temporary>
   </component>
