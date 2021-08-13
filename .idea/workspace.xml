@@ -1,15 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e0b4705-bc05-4283-a63e-ed54381b9db5" name="默认更改列表" comment="默认更改列表">
+    <list default="true" id="4d159e37-ec90-4d00-9089-84148328b271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_105.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_124.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_300.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_543.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_69.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_82.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_83.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_92.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_105.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_124.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_300.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_543.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_69.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_79.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_82.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_83.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_92.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache$DLinkedNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_113.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_122.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_141.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_142.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_143.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_146.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_148.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_155.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_160.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_162.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_198.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_199.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_206.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_215.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_221.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_232.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_234.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_236.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_322.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_415.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_470.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_518.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_76.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_958.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Problem_98.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_113.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_114.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_122.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_141.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_142.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_143.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_148.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_160.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_162.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_198.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_199.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_206.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_215.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_221.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_234.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_236.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_322.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_415.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_470.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_518.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_56$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_76.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_8$Automaton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_8$Automaton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_958.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/Solution_98.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/leetcode/study/TreeNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demo/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,25 +168,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
-  </component>
-  <component name="ProjectId" id="1vmqdE5npT64kI19qNMKokzJw7Q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-    <ConfirmationsSetting value="1" id="添加" />
-  </component>
+  <component name="ProjectId" id="1wfnEs4Pn1RTA9yLjzQD2XCKBep" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,16 +179,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.10050249" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Problem_114">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo.Main" />
       <module name="LeetCodeTop" />
@@ -66,97 +199,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_114" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_24" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_739" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_78" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_114" />
-        <item itemvalue="Application.Problem_24" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Problem_78" />
-        <item itemvalue="Application.Problem_739" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e0b4705-bc05-4283-a63e-ed54381b9db5" name="默认更改列表" comment="" />
-      <created>1627177696354</created>
+      <changelist id="4d159e37-ec90-4d00-9089-84148328b271" name="Changes" comment="" />
+      <created>1628858403809</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1627177696354</updated>
-      <workItem from="1627177702794" duration="12676000" />
-      <workItem from="1627628739883" duration="11536000" />
-      <workItem from="1627870239767" duration="20000" />
-      <workItem from="1627873817646" duration="1365000" />
-      <workItem from="1627971090640" duration="7350000" />
-      <workItem from="1627992110874" duration="121000" />
-      <workItem from="1627992246070" duration="208000" />
-      <workItem from="1627992485765" duration="253000" />
-      <workItem from="1628040770404" duration="46000" />
-      <workItem from="1628040828618" duration="6786000" />
-      <workItem from="1628048629189" duration="24000" />
-      <workItem from="1628048665264" duration="9497000" />
-      <workItem from="1628127234029" duration="3215000" />
-      <workItem from="1628214509357" duration="11410000" />
-      <workItem from="1628506077040" duration="1029000" />
-      <workItem from="1628587955679" duration="18000" />
-      <workItem from="1628758091423" duration="3443000" />
-      <workItem from="1628819030964" duration="5022000" />
+      <updated>1628858403809</updated>
+      <workItem from="1628858407389" duration="333000" />
     </task>
     <servers />
   </component>
@@ -173,6 +230,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
