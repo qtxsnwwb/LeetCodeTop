@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d159e37-ec90-4d00-9089-84148328b271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_239.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_153.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demo/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wfnEs4Pn1RTA9yLjzQD2XCKBep" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.10050249" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,9 +58,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_72">
-    <configuration name="Problem_239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_239" />
+  <component name="RunManager" selected="Application.Problem_136">
+    <configuration name="Problem_136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_136" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_4" />
+    <configuration name="Problem_144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_144" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_456" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_456" />
+    <configuration name="Problem_268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_268" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_50" />
+    <configuration name="Problem_344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_344" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_72" />
+    <configuration name="Problem_509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_509" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_72" />
-        <item itemvalue="Application.Problem_239" />
-        <item itemvalue="Application.Problem_456" />
-        <item itemvalue="Application.Problem_4" />
-        <item itemvalue="Application.Problem_50" />
+        <item itemvalue="Application.Problem_136" />
+        <item itemvalue="Application.Problem_344" />
+        <item itemvalue="Application.Problem_268" />
+        <item itemvalue="Application.Problem_509" />
+        <item itemvalue="Application.Problem_144" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +148,8 @@
       <workItem from="1628858407389" duration="333000" />
       <workItem from="1629337567284" duration="22999000" />
       <workItem from="1629423602462" duration="8670000" />
-      <workItem from="1630485940563" duration="3474000" />
+      <workItem from="1630485940563" duration="10497000" />
+      <workItem from="1630560763312" duration="5715000" />
     </task>
     <servers />
   </component>
