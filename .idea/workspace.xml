@@ -4,17 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d159e37-ec90-4d00-9089-84148328b271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/study/Problem_153.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demo/Main.class" afterDir="false" />
-    </list>
+    <list default="true" id="4d159e37-ec90-4d00-9089-84148328b271" name="Changes" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,10 +33,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/LeetCodeTop" />
   </component>
   <component name="ProjectId" id="1wfnEs4Pn1RTA9yLjzQD2XCKBep" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="添加" />
   </component>
   <component name="ProjectViewState">
@@ -41,10 +50,15 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.10050249" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.22753906" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,9 +72,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem_136">
-    <configuration name="Problem_136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_136" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Main" />
+      <module name="LeetCodeTop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_123" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_144" />
+    <configuration name="Problem_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_217" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_268" />
+    <configuration name="Problem_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_46" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -98,21 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_344" />
-      <module name="LeetCodeTop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_509" />
+    <configuration name="Problem_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.study.Problem_55" />
       <module name="LeetCodeTop" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_136" />
-        <item itemvalue="Application.Problem_344" />
-        <item itemvalue="Application.Problem_268" />
-        <item itemvalue="Application.Problem_509" />
-        <item itemvalue="Application.Problem_144" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Problem_46" />
+        <item itemvalue="Application.Problem_217" />
+        <item itemvalue="Application.Problem_55" />
+        <item itemvalue="Application.Problem_123" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +164,9 @@
       <workItem from="1629423602462" duration="8670000" />
       <workItem from="1630485940563" duration="10497000" />
       <workItem from="1630560763312" duration="5715000" />
+      <workItem from="1630980819132" duration="10805000" />
+      <workItem from="1631155917686" duration="1504000" />
+      <workItem from="1631167444701" duration="12000" />
     </task>
     <servers />
   </component>

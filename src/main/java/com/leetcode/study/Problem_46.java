@@ -10,7 +10,7 @@ public class Problem_46 {
         int[] nums = {1,2,3};
         List<List<Integer>> ans = new Solution_46().permute(nums);
         for(List<Integer> list : ans) {
-            for(Integer num : list) {
+            for (Integer num : list) {
                 System.out.print(num + " ");
             }
             System.out.println();

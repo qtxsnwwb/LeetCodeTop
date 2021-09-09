@@ -29,12 +29,12 @@ public class Problem_160 {
 class Solution_160 {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if(headA == null || headB == null) return null;
-        ListNode pA = headA, pB = headB;
-        while(pA != pB){
-            pA = pA == null ? headB : pA.next;
-            pB = pB == null ? headA : pB.next;
+        ListNode cur1 = headA, cur2 = headB;
+        while(cur1 != cur2){
+            cur1 = cur1 == null ? headB : cur1.next;
+            cur2 = cur2 == null ? headA : cur2.next;
         }
-        return pA;
+        return cur1;
     }
 }
 

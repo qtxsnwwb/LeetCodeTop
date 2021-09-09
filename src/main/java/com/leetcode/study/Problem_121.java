@@ -10,22 +10,29 @@ public class Problem_121 {
 /**
  * 买卖股票的最佳时机
  *
+ * 动态规划
  * 解题：
- *      考虑在历史最低点买进股票，第i天得到的利润为prices[i] - minPrice
- *      因此只需要遍历价格数组一遍，记录历史最低点，考虑在历史最低点买进，那么今天卖出能赚多少钱
+ *      dp[i][0]：第 i 天不持股手上的现金数
+ *          * 昨天不持股，今天啥也不干
+ *          * 昨天持股，今天卖出
+ *          * dp[i][0] = max{dp[i-1][0], dp[i][1] + prices[i]}
+ *      dp[i][1]：第 i 天持股手上的现金数
+ *          * 昨天持股，今天啥也不干
+ *          * 昨天不持股，今天买入
+ *          * dp[i][1] = max{dp[i-1][1], -prices[i]}
  */
 class Solution_121 {
     public int maxProfit(int[] prices) {
-        int minPrice = Integer.MAX_VALUE;
-        int maxProfit = 0;
-        for(int i=0; i<prices.length; i++){
-            if(prices[i] < minPrice){
-                minPrice = prices[i];
-            }else if(prices[i] - minPrice > maxProfit){
-                maxProfit = prices[i] - minPrice;
-            }
+        int len = prices.length;
+        if(len < 2) return 0;
+        int[][] dp = new int[len][2];
+        dp[0][0] = 0;
+        dp[0][1] = -prices[0];
+        for(int i=1; i<len; i++){
+            dp[i][0] = Math.max(dp[i-1][0], dp[i][1] + prices[i]);
+            dp[i][1] = Math.max(dp[i-1][1], -prices[i]);
         }
-        return maxProfit;
+        return dp[len-1][0];
     }
 }
 
